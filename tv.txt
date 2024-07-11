@@ -330,3 +330,46 @@ parse=1
 208 電影免費看2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 209 超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210 花系列經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
+📺歐飛嗅探,#genre#
+
+
+台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+公視金獎,https://www.ofiii.com/channel/watch/ofiii13
+ELTV生活英語,https://www.ofiii.com/channel/watch/litv-longturn20
+龍華卡通,https://www.ofiii.com/channel/watch/litv-longturn01
+哆啦A夢,https://www.ofiii.com/channel/watch/ofiii22
+TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
+東森娛樂,https://www.ofiii.com/channel/watch/ofiii32
+洲旅遊,https://www.ofiii.com/channel/watch/litv-longturn17
+天亞洲精采,https://www.ofiii.com/channel/watch/ofiii36
+SMART知識,https://www.ofiii.com/channel/watch/litv-longturn19
+龍華戲劇,https://www.ofiii.com/channel/watch/litv-longturn18
+台灣戲劇,https://www.ofiii.com/channel/watch/litv-longturn22
+東森購物1,https://www.ofiii.com/channel/watch/4gtv-4gtv102
+龍華偶像,https://www.ofiii.com/channel/watch/litv-longturn12
+龍華日韓,https://www.ofiii.com/channel/watch/litv-longturn11
+Yes娛樂,https://www.ofiii.com/channel/watch/ofiii47
+Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
+東森購物2,https://www.ofiii.com/channel/watch/4gtv-4gtv103
+掏掏新聞,https://www.ofiii.com/channel/watch/ofiii50
+華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+三立新聞iNEWS,https://www.ofiii.com/channel/watch/iNEWS
+寰宇財經,https://www.ofiii.com/channel/watch/litv-longturn23
+台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv051
+中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
+中天新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv009
+寰宇新聞台灣,https://www.ofiii.com/channel/watch/litv-longturn15
+寰宇新聞,https://www.ofiii.com/channel/watch/litv-longturn14
+第1財經,https://www.ofiii.com/channel/watch/ofiii64
+第1商業,https://www.ofiii.com/channel/watch/4gtv-4gtv104
+國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv084
+國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv085
+龍華經典,https://www.ofiii.com/channel/watch/litv-longturn21
+龍華電影,https://www.ofiii.com/channel/watch/litv-longturn03
+周星馳電影,https://www.ofiii.com/channel/watch/ofiii73
+歐飛電影台,https://www.ofiii.com/channel/watch/ofiii74
+歐飛動作電影台,https://www.ofiii.com/channel/watch/ofiii75
+Focus探索新知,https://www.ofiii.com/channel/watch/ofiii82
