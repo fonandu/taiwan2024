@@ -1,26 +1,3 @@
-litv頻道,#genre#
-
-parse=1
-
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-
-TVBS新聞,https://www.litv.tv/channel/watch/4gtv-4gtv072
-
-東森新聞,https://www.litv.tv/channel/watch/4gtv-4gtv152
-
-爬波星视界,http://twip.xztvtv.site/
-
-爬波台湾,http://104.233.187.235/4ghtml/live.html
- 
-央视频,https://pub.hd.caiweiqiang.cn:5001/tv-live/
-
-爬波星视界2 ,http://104.233.187.235/histar/live.html
-
-
-VPN Surf - 通過解鎖快速 VPN
-
-https://chromewebstore.google.com/detail/nhnfcgpcbfclhfafjlooihdfghaeinfc?hl=zh-TW&utm_source=ext_sidebar
-
 4gtv豪華頻道餐,https://www.4gtv.tv/channel?channelSet_id=1
 
 4gtv免費頻道,https://www.4gtv.tv/channel?channelSet_id=4
