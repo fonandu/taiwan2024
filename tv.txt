@@ -332,45 +332,136 @@ parse=1
 209 超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210 花系列經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
 
-📺歐飛嗅探,#genre#
-
-
-台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
-中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
-華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
-公視金獎,https://www.ofiii.com/channel/watch/ofiii13
-ELTV生活英語,https://www.ofiii.com/channel/watch/litv-longturn20
-龍華卡通,https://www.ofiii.com/channel/watch/litv-longturn01
-哆啦A夢,https://www.ofiii.com/channel/watch/ofiii22
-TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
-東森娛樂,https://www.ofiii.com/channel/watch/ofiii32
-洲旅遊,https://www.ofiii.com/channel/watch/litv-longturn17
-天亞洲精采,https://www.ofiii.com/channel/watch/ofiii36
-SMART知識,https://www.ofiii.com/channel/watch/litv-longturn19
-龍華戲劇,https://www.ofiii.com/channel/watch/litv-longturn18
-台灣戲劇,https://www.ofiii.com/channel/watch/litv-longturn22
-東森購物1,https://www.ofiii.com/channel/watch/4gtv-4gtv102
-龍華偶像,https://www.ofiii.com/channel/watch/litv-longturn12
-龍華日韓,https://www.ofiii.com/channel/watch/litv-longturn11
-Yes娛樂,https://www.ofiii.com/channel/watch/ofiii47
-Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
-東森購物2,https://www.ofiii.com/channel/watch/4gtv-4gtv103
-掏掏新聞,https://www.ofiii.com/channel/watch/ofiii50
-華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
-三立新聞iNEWS,https://www.ofiii.com/channel/watch/iNEWS
-寰宇財經,https://www.ofiii.com/channel/watch/litv-longturn23
-台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv051
-中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
-中天新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv009
-寰宇新聞台灣,https://www.ofiii.com/channel/watch/litv-longturn15
-寰宇新聞,https://www.ofiii.com/channel/watch/litv-longturn14
-第1財經,https://www.ofiii.com/channel/watch/ofiii64
-第1商業,https://www.ofiii.com/channel/watch/4gtv-4gtv104
-國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv084
-國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv085
-龍華經典,https://www.ofiii.com/channel/watch/litv-longturn21
-龍華電影,https://www.ofiii.com/channel/watch/litv-longturn03
-周星馳電影,https://www.ofiii.com/channel/watch/ofiii73
-歐飛電影台,https://www.ofiii.com/channel/watch/ofiii74
-歐飛動作電影台,https://www.ofiii.com/channel/watch/ofiii75
-Focus探索新知,https://www.ofiii.com/channel/watch/ofiii82
+歐飛嗅探,#genre#8 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+10 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+12 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+13 公視金獎台,https://www.ofiii.com/channel/watch/ofiii13
+14 好消息2台,https://www.ofiii.com/channel/watch/litv-ftv17
+15 好消息,https://www.ofiii.com/channel/watch/litv-ftv16
+20 ELTV生活英語台,https://www.ofiii.com/channel/watch/litv-longturn20
+21 龍華卡通台,https://www.ofiii.com/channel/watch/litv-longturn01
+22 哆啦Ａ夢台,https://www.ofiii.com/channel/watch/ofiii22
+23 新哆啦A夢(中文版),https://www.ofiii.com/channel/watch/ofiii23
+31 TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
+32 東森娛樂台,https://www.ofiii.com/channel/watch/ofiii32
+34 亞洲旅遊台,https://www.ofiii.com/channel/watch/litv-longturn17
+36 中天亞洲精采台,https://www.ofiii.com/channel/watch/ofiii36
+37 Smart知識台,https://www.ofiii.com/channel/watch/litv-longturn19
+40 龍華戲劇台,https://www.ofiii.com/channel/watch/litv-longturn18
+41 台灣戲劇台,https://www.ofiii.com/channel/watch/litv-longturn22
+43 東森購物1台,https://www.ofiii.com/channel/watch/4gtv-4gtv102
+45 龍華偶像台,https://www.ofiii.com/channel/watch/litv-longturn12
+46 龍華日韓台,https://www.ofiii.com/channel/watch/litv-longturn11
+47 Yes娛樂,https://www.ofiii.com/channel/watch/ofiii47
+48 Focus風采戲劇台,https://www.ofiii.com/channel/watch/ofiii1048
+49 東森購物2台,https://www.ofiii.com/channel/watch/4gtv-4gtv103
+50 掏掏新聞,https://www.ofiii.com/channel/watch/ofiii50
+52 華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+54 三立新聞iNEWS,https://www.ofiii.com/channel/watch/iNEWS
+57 寰宇財經台,https://www.ofiii.com/channel/watch/litv-longturn23
+59 台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv051
+60 中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
+61 中天新聞台,https://www.ofiii.com/channel/watch/4gtv-4gtv009
+62 寰宇新聞台灣台,https://www.ofiii.com/channel/watch/litv-longturn15
+63 寰宇新聞台,https://www.ofiii.com/channel/watch/litv-longturn14
+64 第1財經,https://www.ofiii.com/channel/watch/ofiii64
+65 第1商業台,https://www.ofiii.com/channel/watch/4gtv-4gtv104
+66 國會頻道1台,https://www.ofiii.com/channel/watch/4gtv-4gtv084
+67 國會頻道2台,https://www.ofiii.com/channel/watch/4gtv-4gtv085
+69 龍華經典台,https://www.ofiii.com/channel/watch/litv-longturn21
+71 龍華電影台,https://www.ofiii.com/channel/watch/litv-longturn03
+73 周星馳台,https://www.ofiii.com/channel/watch/ofiii73
+74 歐飛電影台,https://www.ofiii.com/channel/watch/ofiii74
+75 歐飛喜劇電影台,https://www.ofiii.com/channel/watch/ofiii75
+82 Focus探索新知台,https://www.ofiii.com/channel/watch/ofiii82
+87 東森購物快閃台,https://www.ofiii.com/channel/watch/ofiii87
+94 八月,https://www.ofiii.com/channel/watch/ofiii94
+95 Freeman @台灣,https://www.ofiii.com/channel/watch/ofiii95
+96 饕客揪愛吃,https://www.ofiii.com/channel/watch/ofiii96
+97 人氣動漫預告,https://www.ofiii.com/channel/watch/ofiii97
+99 銀髮聚樂部,https://www.ofiii.com/channel/watch/ofiii99
+101 琅琊榜,https://www.ofiii.com/channel/watch/ofiii101
+102 扶搖,https://www.ofiii.com/channel/watch/ofiii102
+103 三國,https://www.ofiii.com/channel/watch/ofiii103
+105 芈月傳,https://www.ofiii.com/channel/watch/ofiii105
+106 軍師聯盟,https://www.ofiii.com/channel/watch/ofiii106
+107 軍師聯盟2 虎嘯龍吟,https://www.ofiii.com/channel/watch/ofiii107
+108 東宮(完整版),https://www.ofiii.com/channel/watch/ofiii108
+109 錦衣之下,https://www.ofiii.com/channel/watch/ofiii109
+110 楚喬傳,https://www.ofiii.com/channel/watch/ofiii110
+111 倚天屠龍記 2019,https://www.ofiii.com/channel/watch/ofiii111
+112 風起西州,https://www.ofiii.com/channel/watch/ofiii112
+115 三十而已,https://www.ofiii.com/channel/watch/ofiii115
+116 去有風的地方,https://www.ofiii.com/channel/watch/ofiii116
+117 以愛為營,https://www.ofiii.com/channel/watch/ofiii117
+118 向風而行,https://www.ofiii.com/channel/watch/ofiii118
+119 以家人之名,https://www.ofiii.com/channel/watch/ofiii119
+120 我們的翻譯官,https://www.ofiii.com/channel/watch/ofiii120
+121 流光之下,https://www.ofiii.com/channel/watch/ofiii121
+122 鱷魚與牙籤鳥,https://www.ofiii.com/channel/watch/ofiii122
+123 裝腔啟示錄,https://www.ofiii.com/channel/watch/ofiii123
+124 無與倫比的美麗,https://www.ofiii.com/channel/watch/ofiii124
+126 豬哥壹級棒,https://www.ofiii.com/channel/watch/ofiii126
+127 小明星大跟班,https://www.ofiii.com/channel/watch/ofiii127
+128 食尚玩家-2天1夜go,https://www.ofiii.com/channel/watch/ofiii128
+129 WTO姐妹會,https://www.ofiii.com/channel/watch/ofiii129
+130 綜藝玩很大,https://www.ofiii.com/channel/watch/ofiii130
+131 全民星攻略,https://www.ofiii.com/channel/watch/ofiii131
+132 台灣1001個故事,https://www.ofiii.com/channel/watch/ofiii132
+133 台灣啟示錄,https://www.ofiii.com/channel/watch/ofiii133
+134 法眼黑與白,https://www.ofiii.com/channel/watch/ofiii134
+135 天才衝衝衝,https://www.ofiii.com/channel/watch/ofiii135
+136 詹姆士出走料理,https://www.ofiii.com/channel/watch/ofiii136
+137 食尚玩家-魚肉鄉民,https://www.ofiii.com/channel/watch/ofiii137
+138 世界第一等,https://www.ofiii.com/channel/watch/ofiii138
+139 進擊的台灣,https://www.ofiii.com/channel/watch/ofiii139
+140 食尚玩家-瘋狂總部,https://www.ofiii.com/channel/watch/ofiii140
+141 台灣第一等,https://www.ofiii.com/channel/watch/ofiii141
+142 一字千金,https://www.ofiii.com/channel/watch/ofiii142
+143 11點熱吵店,https://www.ofiii.com/channel/watch/ofiii143
+144 食尚玩家-熱血48小時,https://www.ofiii.com/channel/watch/ofiii144
+145 溢遊未盡,https://www.ofiii.com/channel/watch/ofiii145
+147 百年新娘,https://www.ofiii.com/channel/watch/ofiii147
+148 頭腦共助,https://www.ofiii.com/channel/watch/ofiii148
+149 朝鮮律師,https://www.ofiii.com/channel/watch/ofiii149
+150 台灣靈異事件,https://www.ofiii.com/channel/watch/litv-vchannel150
+151 包青天 1993版,https://www.ofiii.com/channel/watch/ofiii151
+152 我的婆婆怎麼那麼可愛,https://www.ofiii.com/channel/watch/ofiii152
+153 村裡來了個暴走女外科,https://www.ofiii.com/channel/watch/ofiii153
+154 一把青,https://www.ofiii.com/channel/watch/ofiii154
+155 茶金,https://www.ofiii.com/channel/watch/ofiii155
+156 四樓的天堂,https://www.ofiii.com/channel/watch/ofiii156
+157 俗女養成記,https://www.ofiii.com/channel/watch/ofiii157
+159 雖然等級只有1級但固有技能是最強的,https://www.ofiii.com/channel/watch/ofiii159
+160 擁有超常技能的異世界流浪美食家,https://www.ofiii.com/channel/watch/ofiii160
+161 香格里拉・開拓異境~糞作獵手挑戰神作~,https://www.ofiii.com/channel/watch/ofiii161
+162 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,https://www.ofiii.com/channel/watch/ofiii162
+163 第一神拳,https://www.ofiii.com/channel/watch/ofiii163
+164 刀劍神域(中文版),https://www.ofiii.com/channel/watch/ofiii164
+165 蠟筆小新(中文版),https://www.ofiii.com/channel/watch/ofiii165
+166 我們這一家,https://www.ofiii.com/channel/watch/ofiii166
+167 獵人(中文版),https://www.ofiii.com/channel/watch/ofiii167
+168 中華一番(中文版),https://www.ofiii.com/channel/watch/ofiii168
+169 隊長小翼(中文版),https://www.ofiii.com/channel/watch/ofiii169
+170 SPY X FAMILY 間諜家家酒,https://www.ofiii.com/channel/watch/ofiii170
+171 SPY X FAMILY 間諜家家酒(中文版),https://www.ofiii.com/channel/watch/ofiii171
+172 無職轉生，到了異世界就拿出真本事,https://www.ofiii.com/channel/watch/ofiii172
+173 關於我轉生變成史萊姆這檔事(國),https://www.ofiii.com/channel/watch/ofiii173
+174 夏目友人帳,https://www.ofiii.com/channel/watch/ofiii174
+175 家庭教師HITMAN REBORN!(中文版),https://www.ofiii.com/channel/watch/ofiii175
+176 烘焙王(中文版),https://www.ofiii.com/channel/watch/ofiii176
+177 鋼之鍊金術師,https://www.ofiii.com/channel/watch/ofiii177
+178 JOJO 的奇妙冒險,https://www.ofiii.com/channel/watch/ofiii178
+179 葬送的芙莉蓮,https://www.ofiii.com/channel/watch/ofiii179
+180 電動車時代,https://www.ofiii.com/channel/watch/ofiii180
+181 SiCAR愛車酷,https://www.ofiii.com/channel/watch/ofiii181
+185 狂人日誌,https://www.ofiii.com/channel/watch/ofiii185
+186 Super Snow Show,https://www.ofiii.com/channel/watch/ofiii186
+188 玩車大麥克,https://www.ofiii.com/channel/watch/ofiii188
+190 脖子解說 Mr. Neck,https://www.ofiii.com/channel/watch/ofiii190
+191 蒙福人生,https://www.ofiii.com/channel/watch/ofiii191
+192 生命的贏家,https://www.ofiii.com/channel/watch/ofiii192
+201 大新聞大爆卦,https://www.ofiii.com/channel/watch/ofiii201
+202 新聞大白話,https://www.ofiii.com/channel/watch/ofiii202
+203 文茜的世界周報,https://www.ofiii.com/channel/watch/ofiii203
+204 寰宇全視界,https://www.ofiii.com/channel/watch/ofiii204
