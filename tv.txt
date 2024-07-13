@@ -5,6 +5,7 @@ CBeebies,udp://@224.1.4.75:11111
 東森幼幼2,http://z02.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
 MOMO親子台1,http://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 MOMO親子台2,http://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
+CN卡通,http://z02.ubtvfans.com/live/rx1/107/990ca7883f6e587bcc8b96cb0cd4719a/index.m3u8
 緯來日本,https://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 靖天日本,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
