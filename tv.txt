@@ -483,91 +483,91 @@ parse=1
 204 寰宇全視界,https://www.ofiii.com/channel/watch/ofiii204
 
 
-綜合,#genre#
+ 
  民視, http://xg.52sw.top:5000/litv/4gtv-4gtv155
  民視第一台, http://xg.52sw.top:5000/litv/4gtv-4gtv003
-新聞財經,#genre#
+
  民視新聞台, http://xg.52sw.top:5000/litv/litv-ftv13
-綜合,#genre#
+
  民視台灣台, http://xg.52sw.top:5000/litv/4gtv-4gtv001
-電影戲劇,#genre#
+
  民視影劇台, http://xg.52sw.top:5000/litv/litv-ftv09
-生活旅遊,#genre#
+
  民視旅遊台, http://xg.52sw.top:5000/litv/litv-ftv07
-音樂綜藝,#genre#
+
  民視綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv004
-綜合,#genre#
+
  中視, http://xg.52sw.top:5000/litv/4gtv-4gtv040
-新聞財經,#genre#
+
  中視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv074
-電影戲劇,#genre#
+
  中視經典台, http://xg.52sw.top:5000/litv/4gtv-4gtv080
-綜合,#genre#
+
  中視菁采台, http://xg.52sw.top:5000/litv/4gtv-4gtv064
-新聞財經,#genre#
+
  中天新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv009
-綜合,#genre#
+
  中天亞洲台, http://xg.52sw.top:5000/litv/4gtv-4gtv109
  華視, http://xg.52sw.top:5000/litv/4gtv-4gtv041
-新聞財經,#genre#
+
  華視新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv052
-綜合,#genre#
+
  靖天綜合台, http://xg.52sw.top:5000/litv/4gtv-4gtv046
  靖天國際台, http://xg.52sw.top:5000/litv/4gtv-4gtv063
-電影戲劇,#genre#
+
  靖天戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv058
-綜合,#genre#
+
  靖天日本台, http://xg.52sw.top:5000/litv/4gtv-4gtv047
-少兒,#genre#
+
  靖天映畫台, http://xg.52sw.top:5000/litv/4gtv-4gtv055
  靖天卡通台, http://xg.52sw.top:5000/litv/4gtv-4gtv044
-音樂綜藝,#genre#
+
  靖天育樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv062
-新聞財經,#genre#
+
  靖天資訊台, http://xg.52sw.top:5000/litv/4gtv-4gtv065
-電影戲劇,#genre#
+
  靖天電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv061
-音樂綜藝,#genre#
+
  靖天歡樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv054
  龍華偶像台, http://xg.52sw.top:5000/litv/litv-longturn12
-少兒,#genre#
+
  龍華卡通台, http://xg.52sw.top:5000/litv/litv-longturn01
-電影戲劇,#genre#
+
  龍華戲劇台, http://xg.52sw.top:5000/litv/litv-longturn18
-音樂綜藝,#genre#
+
  龍華日韓台, http://xg.52sw.top:5000/litv/litv-longturn11
-電影戲劇,#genre#
+
  龍華經典台, http://xg.52sw.top:5000/litv/litv-longturn21
  龍華電影台, http://xg.52sw.top:5000/litv/litv-longturn03
  靖洋戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv045
-少兒,#genre#
+
  靖洋卡通 Nice Bingo, http://xg.52sw.top:5000/litv/4gtv-4gtv057
-新聞財經,#genre#
+
  寰宇新聞台, http://xg.52sw.top:5000/litv/litv-longturn14
  寰宇新聞台灣台, http://xg.52sw.top:5000/litv/litv-longturn15
  寰宇財經台, http://xg.52sw.top:5000/litv/litv-longturn23
-其他,#genre#
+
  TVBS, http://xg.52sw.top:5000/litv/4gtv-4gtv073
-新聞財經,#genre#
+
  TVBS 新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv072
-音樂綜藝,#genre#
+
  TVBS 綜藝台, http://xg.52sw.top:5000/4gtv/284
  TVBS 歡樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv068
  TVBS 精采台, http://xg.52sw.top:5000/litv/4gtv-4gtv067
-電影戲劇,#genre#
+
  TVBS 台劇台, http://xg.52sw.top:5000/4gtv/285
-音樂綜藝,#genre#
+
  八大精彩台, http://xg.52sw.top:5000/litv/4gtv-4gtv034
  八大綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv039
-新聞財經,#genre#
+
  三立新聞, http://xg.52sw.top:5000/4gtv/229
-綜合,#genre#
+
  三立綜合台, http://xg.52sw.top:5000/4gtv/169
  台視, http://xg.52sw.top:5000/litv/4gtv-4gtv066
-新聞財經,#genre#
+
  台視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv051
  台視財經台, http://xg.52sw.top:5000/litv/4gtv-4gtv056
-體育,#genre#
+
  博斯運動一台, http://xg.52sw.top:5000/litv/litv-longturn07
  博斯運動二台, http://xg.52sw.top:5000/litv/litv-longturn08
  博斯無限台, http://xg.52sw.top:5000/litv/litv-longturn10
@@ -576,27 +576,27 @@ parse=1
  博斯高球台, http://xg.52sw.top:5000/litv/litv-longturn05
  博斯高球二台, http://xg.52sw.top:5000/litv/litv-longturn06
  博斯魅力台, http://xg.52sw.top:5000/litv/litv-longturn04
-音樂綜藝,#genre#
+
  ELTA 娛樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv070
-生活旅遊,#genre#
+
  ELTA 生活旅遊, http://xg.52sw.top:5000/4gtv/237
  ELTA生活英語, http://xg.52sw.top:5000/litv/litv-longturn20
-新聞財經,#genre#
+
  東森新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv152
  東森財經新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv153
  非凡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv010
  非凡商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv048
  鏡電視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
  CNBC Asia 財經台, http://xg.52sw.top:5000/4gtv/235
-生活旅遊,#genre#
+
  亞洲旅遊台, http://xg.52sw.top:5000/litv/litv-longturn17
-體育,#genre#
+
  GINX Esports TV, http://xg.52sw.top:5000/litv/4gtv-4gtv053
  TechStorm, http://xg.52sw.top:5000/4gtv/181
  時尚運動X, http://xg.52sw.top:5000/4gtv/277
  智林體育台, http://xg.52sw.top:5000/litv/4gtv-4gtv101
  TraceSports, http://xg.52sw.top:5000/litv/4gtv-4gtv077
-電影戲劇,#genre#
+
  影迷數位紀實台, http://xg.52sw.top:5000/4gtv/212
  影迷數位電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv011
  AMC 最愛電影, http://xg.52sw.top:5000/litv/4gtv-4gtv017
@@ -617,7 +617,7 @@ parse=1
  Rock Entertainment, http://xg.52sw.top:5000/4gtv/275
  金光布袋戲, http://xg.52sw.top:5000/4gtv/236
  霹靂布袋戲, http://xg.52sw.top:5000/4gtv/301
-少兒,#genre#
+
  DreamWorks 夢工廠動畫, http://xg.52sw.top:5000/4gtv/282
  Nickelodeon, http://xg.52sw.top:5000/4gtv/185
  Nick Jr. 兒童頻道, http://xg.52sw.top:5000/4gtv/219
@@ -629,14 +629,14 @@ parse=1
  超人力霸王整套看, http://xg.52sw.top:5000/4gtv/278
  MOMO 親子台, http://xg.52sw.top:5000/4gtv/231
  LiveABC 互動英語台, http://xg.52sw.top:5000/4gtv/188
-音樂綜藝,#genre#
+
  Classica 古典樂, http://xg.52sw.top:5000/litv/4gtv-4gtv059
  Lifetime 娛樂頻道, http://xg.52sw.top:5000/4gtv/217
  MTV Live HD 音樂頻道, http://xg.52sw.top:5000/4gtv/213
  Mezzo Live, http://xg.52sw.top:5000/litv/4gtv-4gtv083
  豬哥亮歌廳秀, http://xg.52sw.top:5000/litv/4gtv-4gtv006
  Trace Urban, http://xg.52sw.top:5000/litv/4gtv-4gtv082
-生活旅遊,#genre#
+l
  Global Trekker, http://xg.52sw.top:5000/4gtv/252
  Globetrotter 環遊旅行家, http://xg.52sw.top:5000/litv/4gtv-4gtv016
  LUXE TV, http://xg.52sw.top:5000/4gtv/175
@@ -646,16 +646,16 @@ parse=1
  Love Nature, http://xg.52sw.top:5000/4gtv/139
  Fun 探索娛樂台, http://xg.52sw.top:5000/4gtv/274
  幸福空間居家台, http://xg.52sw.top:5000/4gtv/168
-綜合,#genre#
+
  Arirang TV, http://xg.52sw.top:5000/litv/4gtv-4gtv079
  Bloomberg TV, http://xg.52sw.top:5000/4gtv/283
-新聞財經,#genre#
+
  VOA 美國之音, http://xg.52sw.top:5000/litv/litv-ftv03
  DW德國之聲, http://xg.52sw.top:5000/4gtv/226
  SBN 全球財經台, http://xg.52sw.top:5000/4gtv/224
  半島國際新聞台, http://xg.52sw.top:5000/litv/litv-ftv10
  第1商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv104
-其他,#genre#
+
  History 歷史頻道, http://xg.52sw.top:5000/4gtv/214
  CI 罪案偵查頻道, http://xg.52sw.top:5000/4gtv/215
  Smart 知識台, http://xg.52sw.top:5000/litv/litv-longturn19
