@@ -1,10 +1,22 @@
 MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼1,https://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼2,https://z02.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
-MOMO親子台1,https://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-MOMO親子台2,https://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
+東森幼幼1,http://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+東森幼幼2,http://z02.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
+MOMO親子台1,http://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
+MOMO親子台2,http://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
+緯來日本,https://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+靖天日本,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+八大綜合,http://z02.ubtvfans.com/live/rx1/2286/63f505583edcf4be49bfa741357374f4/index.m3u8
+動物星球,http://z02.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+華視,http://z02.ubtvfans.com/live/rx1/32/9b44594fd83fa796452bff38162a3202/index.m3u8
+中視,http://z02.ubtvfans.com/live/rx1/333/5defc2a827d09feb516cda3182f189e8/index.m3u8
+台視,http://z02.ubtvfans.com/live/rx1/326/c30e3cf1a9d2033be1ac80712fffdc12/index.m3u8
+民視,http://z02.ubtvfans.com/live/rx1/336/52df001ee54d5a0069363a98d89b7d8b/index.m3u8
+東森洋片,http://z02.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
+好萊塢電影,http://z02.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
+
 
 TVBS新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
