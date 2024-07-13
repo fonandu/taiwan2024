@@ -130,7 +130,7 @@ MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 
-央視,#genre#
+央視6,#genre#
 1綜合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 1綜合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 2財經,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -156,7 +156,7 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 16奧林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 17農業農村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-衛視,#genre#
+衛視6,#genre#
 江蘇衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江蘇衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 浙江衛視,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
