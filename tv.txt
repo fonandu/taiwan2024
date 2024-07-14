@@ -1,8 +1,8 @@
 MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼1,http://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼2,http://z02.ubtvfans.com/live/rx1/371/e5a626d0c50b5b2ffc67d45f5573088f/index.m3u8
+東森幼幼,http://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+MOMO親子台1,http://z02.ubtvfans.com/live/rx1/2767/d49cd499a43d8527dce626e3b22480f3/index.m3u8
 
 緯來日本,http://z02.ubtvfans.com/live/rx1/337/937c1ee1a7a957e1396d657115d88871/index.m3u8
 緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/cbdca2ff0c55784b79d5c662e98a1202/index.m3u8
