@@ -83,8 +83,7 @@ rtmp日本,#genre#
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
 
-ysp頻道,#genre#
-
+央視頻道,#genre#
 CCTV4k,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
 CCTV8k,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV1綜合,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
@@ -107,6 +106,7 @@ CCTV16奧林匹克,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/202407
 CCTV16-4k,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
 CCTV17農業農村,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
 
+衛視頻道,#genre#
 江蘇衛視,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
 浙江衛視,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
 湖南衛視,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
@@ -131,6 +131,7 @@ CCTV17農業農村,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/202407
 遼寧衛視,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
 黑龍江衛視,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
 
+數字頻道,#genre#
 世界地理,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
 央視台球,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
 風雲音樂,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
@@ -144,14 +145,6 @@ CCTV17農業農村,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/202407
 央視文化,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
 電視指南,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
 高爾夫網球,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-
-CGTN,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
-CGTN紀錄,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
-CGTN西語,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
-CGTN法語,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
-CGTN阿語,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
-CGTN俄語,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
-
 
 
 北京頻道,#genre#
