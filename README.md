@@ -6,9 +6,6 @@ TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞24,https://www.youtube.com/watch?v=E0zhe2gkXBs
 
-秘密基地 http://oy.oyxx-1.eu.org/p3p.php
-
-央視頻m3u https://raw.githubusercontent.com/nt02xp/nt02xp/main/ysp.m3u
 
 JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
 
