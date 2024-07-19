@@ -5,7 +5,11 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 1綜合,https://www.yangshipin.cn/tv/home?pid=600001859
 2財經,https://www.yangshipin.cn/tv/home?pid=600001800
 4中文國際,https://www.yangshipin.cn/tv/home?pid=600001814
+5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+5+體育賽事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+6電影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 7國防軍事,https://www.yangshipin.cn/tv/home?pid=600004092
+8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 9紀錄,https://www.yangshipin.cn/tv/home?pid=600004078
 10科教,https://www.yangshipin.cn/tv/home?pid=600001805
 11戲曲,https://www.yangshipin.cn/tv/home?pid=600001806
@@ -13,8 +17,8 @@ CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 13新聞,https://www.yangshipin.cn/tv/home?pid=600001811
 14少兒,https://www.yangshipin.cn/tv/home?pid=600001809
 15音樂,https://www.yangshipin.cn/tv/home?pid=600001815
+16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 17農業農村,https://www.yangshipin.cn/tv/home?pid=600001810
-
 
 衛視頻道,#genre#
 parse=1
