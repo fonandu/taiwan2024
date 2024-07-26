@@ -74,6 +74,9 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
+KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
 
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
