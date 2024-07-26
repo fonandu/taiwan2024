@@ -72,14 +72,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 函館山,https://www.youtube.com/watch?v=s--MDmshT3I
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
-北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
-広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+日
 函館山,https://www.youtube.com/watch?v=s--MDmshT3I
-日本沉沒電影,https://www.youtube.com/watch?v=bmTdASHVKMM
 
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
