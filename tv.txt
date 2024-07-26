@@ -70,6 +70,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
+
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
