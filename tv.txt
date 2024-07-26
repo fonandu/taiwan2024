@@ -77,7 +77,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-
+函館山,https://www.youtube.com/live/s--MDmshT3I?si=9hGgqoSwNO_AU4vx
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
