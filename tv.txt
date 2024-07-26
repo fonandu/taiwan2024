@@ -108,7 +108,7 @@ CHC動作電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
-函館山ライブカメラ,https://www.youtube.com/watch?v=s--MDmshT3I
+
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
 
