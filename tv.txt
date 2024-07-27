@@ -4,10 +4,20 @@ CBeebies,udp://@224.1.4.75:11111
 東森幼幼,http://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 MOMO親子台,http://z02.ubtvfans.com/live/rx1/2767/d49cd499a43d8527dce626e3b22480f3/index.m3u8
 
+
 華視,http://z02.ubtvfans.com/live/rx1/32/9b44594fd83fa796452bff38162a3202/index.m3u8
 中視,http://z02.ubtvfans.com/live/rx1/333/5defc2a827d09feb516cda3182f189e8/index.m3u8
 台視,http://z02.ubtvfans.com/live/rx1/326/c30e3cf1a9d2033be1ac80712fffdc12/index.m3u8
 民視,http://z02.ubtvfans.com/live/rx1/336/52df001ee54d5a0069363a98d89b7d8b/index.m3u8
+
+緯來日本,http://z02.ubtvfans.com/live/rx1/337/937c1ee1a7a957e1396d657115d88871/index.m3u8
+緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/cbdca2ff0c55784b79d5c662e98a1202/index.m3u8
+靖天日本,https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+東森洋片,http://z02.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
+好萊塢電影,http://z02.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
 
 
 TVBS新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv072
@@ -47,12 +57,6 @@ TVBS新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv072
 龍華經典,http://xg.52sw.top:5000/litv/litv-longturn21
 龍華電影,http://xg.52sw.top:5000/litv/litv-longturn03
 龍華戲劇,http://xg.52sw.top:5000/litv/litv-longturn18
-
-緯來日本,http://z02.ubtvfans.com/live/rx1/337/937c1ee1a7a957e1396d657115d88871/index.m3u8
-緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/cbdca2ff0c55784b79d5c662e98a1202/index.m3u8
-
-東森洋片,http://z02.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
-好萊塢電影,http://z02.ubtvfans.com/live/rx1/37/e99b9288d24de4ba3379acd8560e55f4/index.m3u8
 
 油管新聞,#genre#
 parse=1
