@@ -65,6 +65,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
+NASA Live 24/7,https://www.youtube.com/watch?v=r-TPJDQSqv0
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
