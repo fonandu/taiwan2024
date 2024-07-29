@@ -62,10 +62,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-九份老街,https://www.youtube.com/watch?v=fRqO-EzX85Q
+函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
-函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 NASA Live,https://www.youtube.com/watch?v=r-TPJDQSqv0
 ISS Live,https://www.youtube.com/watch?v=lx2CNP7kwhI
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
