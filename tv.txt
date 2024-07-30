@@ -62,6 +62,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+櫻島火山,https://www.youtube.com/live/eF9PohrRP_o?si=TeRGuC51njWHe7tp
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
