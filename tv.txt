@@ -66,8 +66,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
-NASA Live,https://www.youtube.com/watch?v=r-TPJDQSqv0
-ISS Live,https://www.youtube.com/watch?v=lx2CNP7kwhI
+
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
@@ -76,7 +75,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 日
-函館山,https://www.youtube.com/watch?v=s--MDmshT3I
 
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
