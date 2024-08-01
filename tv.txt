@@ -43,8 +43,6 @@ TVBS新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv072
 龍華戲劇,http://xg.52sw.top:5000/litv/litv-longturn18
 
 油管新聞,#genre#
-parse=1
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -66,7 +64,6 @@ rtmp日本,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
-
 
 北京頻道,#genre#
 CHC影迷電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
