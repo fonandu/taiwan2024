@@ -27,6 +27,8 @@ CCTV直播,https://tv.cctv.com/live
 
 易播機上盒使用教學 https://6868jx.com
 
+timi技術交流群 https://t.me/Tvb_Super
+
 极致播放器交流群 https://t.me/jizhi222
 
 影視TV https://t.me/fongmi_offical
@@ -50,6 +52,7 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
+timi mao https://t.me/NATcloudcloud
 
 影視軟件安裝大全 https://t.me/tvboxjk
 
