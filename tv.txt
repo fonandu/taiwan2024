@@ -24,6 +24,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
+Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
 靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 靖天卡通,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv044
