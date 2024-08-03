@@ -15,24 +15,6 @@ https://useragent.onlinealat.com/
 
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 
-1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-
-2財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-
-5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-5+體育賽事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-6電影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-
-8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-
-9紀錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
-13新聞,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-
-16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
-
 范明明IPTV6,https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 CCTV直播,https://tv.cctv.com/live
