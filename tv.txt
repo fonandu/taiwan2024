@@ -25,6 +25,8 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 非凡新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv010
 
+
+靖天龍華,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -34,7 +36,6 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
 Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
-靖天龍華,#genre#
 靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 靖天卡通,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv044
 靖天育樂,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv062
@@ -56,10 +57,6 @@ Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 龍華戲劇,https://qq01xp.serv00.net/litv.php?id=litv-longturn18
 
 北京頻道,#genre#
-CHC影迷電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CHC動作電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-
 北京淘電影,http://www.lishaoping.com:8012/rtp/239.3.1.250:8001
 北京淘Baby,http://www.lishaoping.com:8012/rtp/239.3.1.238:8001
 北京淘劇場,http://www.lishaoping.com:8012/rtp/239.3.1.95:8001
