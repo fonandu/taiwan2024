@@ -2,8 +2,6 @@ MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
 東森幼幼,https://pixman.mytvsuper.com.mp/histar?id=ebc-yoyo
-MOMO親子台,https://pixman.mytvsuper.com.mp/histar?id=momo-kids
-CN卡通,https://pixman.mytvsuper.com.mp/histar?id=cn-cartoon
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -38,7 +36,6 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-愛爾達旅游,https://pixman.mytvsuper.com.mp/histar?id=elta-lifetravel
 Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
 靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
