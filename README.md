@@ -9,6 +9,10 @@ TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
 
+UA查詢 查看瀏覽器的UserAgent用戶代理
+
+https://useragent.onlinealat.com/
+
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
