@@ -7,15 +7,16 @@ CBeebies,udp://@224.1.4.75:11111
 
 TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
-民視新聞,https://qq01xp.serv00.net/litv.php?id=litv-ftv13
-中天新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv009
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=oZdzzvxTfUY
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://qq01xp.serv00.net/litv.php?id=litv-longturn14
-寰宇新聞台灣,https://qq01xp.serv00.net/litv.php?id=litv-longturn15
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 非凡新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv010
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
