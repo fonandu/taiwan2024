@@ -64,17 +64,7 @@ CHC動作電影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 北京淘劇場,http://www.lishaoping.com:8012/rtp/239.3.1.95:8001
 北京淘娛樂,http://www.lishaoping.com:8012/rtp/239.3.1.100:8001
 
-油管直播,#genre#
-我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
-蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
-中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
-瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
-金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
-
-MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
-
+我的明星村長,#genre#
 我的明星村長1,https://www.youtube.com/watch?v=-iwB_bKlCyU
 我的明星村長2,https://www.youtube.com/watch?v=rvb0kxn75Sc
 我的明星村長3,https://www.youtube.com/watch?v=Xc2za-_dt6E
@@ -88,6 +78,17 @@ MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 我的明星村長11,https://www.youtube.com/watch?v=rvb0kxn75Sc
 我的明星村長12,https://www.youtube.com/watch?v=QAysrqkptXE
 我的明星村長13https://www.youtube.com/watch?v=eGvuiDCaZBU
+
+油管直播,#genre#
+我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
+蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
+中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
+瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
+象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
+
+MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 
 櫻島火山,https://www.youtube.com/live/eF9PohrRP_o?si=TeRGuC51njWHe7tp
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
