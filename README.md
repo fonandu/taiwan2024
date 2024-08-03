@@ -63,6 +63,8 @@ ok影視 https://t.me/tvb_ys
 
 tvbox接口 https://t.me/TVBoxjkou
 
+霸霸 @baba_xbot
+
 香港源 @hkanime_bot
 
 恩山訂閱 @NodeRSS_bot
