@@ -1,7 +1,7 @@
 MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼,http://php.jdshipin.com:8880/xsj.php?id=ebc-yoyo
+東森幼幼,https://sxj.btjson.us.kg/histar?id=ebc-yoyo
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -29,13 +29,6 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 
 
 靖天龍華,#genre#
-ELTA奥运1台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly1
-ELTA奥运2台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly2
-ELTA奥运3台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly3
-ELTA奥运4台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly4
-ELTA奥运5台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly5
-ELTA奥运6台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly6
-ELTA奥运7台,https://pixman.mytvsuper.com.mp/histar?id=elta-oly7
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
