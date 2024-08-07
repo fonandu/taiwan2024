@@ -1,3 +1,5 @@
+M3U-4GTV播放列表地址：https://www.mytvsuper.com.mp/4gtv_dussl.m3u
+
 4gtv豪華頻道餐,https://www.4gtv.tv/channel?channelSet_id=1
 
 4gtv免費頻道,https://www.4gtv.tv/channel?channelSet_id=4
