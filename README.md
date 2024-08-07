@@ -77,3 +77,18 @@ tvbox接口 https://t.me/TVBoxjkou
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
+
+
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+
+日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
+
+TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
+
+KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
+
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+
+北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
+
+広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
