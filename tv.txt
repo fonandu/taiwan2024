@@ -104,5 +104,5 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
-日
+
 
