@@ -8,10 +8,10 @@ CBeebies,udp://@224.1.4.75:11111
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 民视,rtmp://f13h.mine.nu/sat/tv051
 
-華視L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv041
-中視L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv040
-台視L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv066
-民視L,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv155
+華視L,https://sxg.btjson.us.kg/litv/4gtv-4gtv041
+中視L,https://sxg.btjson.us.kg/litv/4gtv-4gtv040
+台視L,https://sxg.btjson.us.kg/litv/4gtv-4gtv066
+民視L,https://sxg.btjson.us.kg/litv/4gtv-4gtv155
 
 TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 東森新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv152
@@ -27,37 +27,37 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 非凡新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv010
 
-
 靖天龍華,#genre#
-
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
-亞洲旅遊,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
+Smart知識台,https://sxg.btjson.us.kg/litv/litv-longturn19
+民視旅遊,https://sxg.btjson.us.kg/litv/litv-ftv07
+亞洲旅遊,https://sxg.btjson.us.kg/litv/litv-longturn17
+愛爾達旅遊,https://sxg.btjson.us.kg/4gtv/237
 
-靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
-靖天卡通,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv044
-靖天育樂,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv062
-靖天映畫,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv055
-靖天國際,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv063
-靖天資訊,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv065
-靖天電影,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv061
-靖天綜合,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv046
-靖天戲劇,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv058
-靖天歡樂,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv054
-靖洋卡通,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv057
-靖洋戲劇,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv045
+靖天日本,https://sxg.btjson.us.kg/litv/4gtv-4gtv047
+靖天卡通,https://sxg.btjson.us.kg/litv/4gtv-4gtv044
+靖天育樂,https://sxg.btjson.us.kg/litv/4gtv-4gtv062
+靖天映畫,https://sxg.btjson.us.kg/litv/4gtv-4gtv055
+靖天國際,https://sxg.btjson.us.kg/litv/4gtv-4gtv063
+靖天資訊,https://sxg.btjson.us.kg/litv/4gtv-4gtv065
+靖天電影,https://sxg.btjson.us.kg/litv/4gtv-4gtv061
+靖天綜合,https://sxg.btjson.us.kg/litv/4gtv-4gtv046
+靖天戲劇,https://sxg.btjson.us.kg/litv/4gtv-4gtv058
+靖天歡樂,https://sxg.btjson.us.kg/litv/4gtv-4gtv054
+靖洋卡通,https://sxg.btjson.us.kg/litv/4gtv-4gtv057
+靖洋戲劇,https://sxg.btjson.us.kg/litv/4gtv-4gtv045
 
-龍華日韓,https://qq01xp.serv00.net/litv.php?id=litv-longturn11
-龍華卡通,https://qq01xp.serv00.net/litv.php?id=litv-longturn01
-龍華偶像,https://qq01xp.serv00.net/litv.php?id=litv-longturn12
-龍華經典,https://qq01xp.serv00.net/litv.php?id=litv-longturn21
-龍華電影,https://qq01xp.serv00.net/litv.php?id=litv-longturn03
-龍華戲劇,https://qq01xp.serv00.net/litv.php?id=litv-longturn18
+龍華日韓,https://sxg.btjson.us.kg/litv/litv-longturn11
+龍華卡通,https://sxg.btjson.us.kg/litv/litv-longturn01
+龍華偶像,https://sxg.btjson.us.kg/litv/litv-longturn12
+龍華經典,https://sxg.btjson.us.kg/litv/litv-longturn21
+龍華電影,https://sxg.btjson.us.kg/litv/litv-longturn03
+龍華戲劇,https://sxg.btjson.us.kg/litv/litv-longturn18
 
 北京頻道,#genre#
 北京淘電影,http://www.lishaoping.com:8012/rtp/239.3.1.250:8001
