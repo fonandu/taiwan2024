@@ -1,10 +1,5 @@
 MOD卡通,#genre#
 CBeebies,udp://@224.1.4.75:11111
-東森幼幼,https://sxj.btjson.us.kg/histar?id=ebc-yoyo
-緯來日本,https://sxj.btjson.us.kg/histar?id=videoland-japan
-靖天日本,https://sxj.btjson.us.kg/histar?id=jtrb
-動物星球,https://sxj.btjson.us.kg/histar?id=animal-planet
-八大綜合,https://sxj.btjson.us.kg/histar?id=gtv28
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
