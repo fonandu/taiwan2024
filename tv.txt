@@ -96,21 +96,6 @@ Smart知識台,https://sxg.btjson.us.kg/litv/litv-longturn19
 北京淘劇場,http://www.lishaoping.com:8012/rtp/239.3.1.95:8001
 北京淘娛樂,http://www.lishaoping.com:8012/rtp/239.3.1.100:8001
 
-我的明星村長,#genre#
-我的明星村長14,https://www.youtube.com/watch?v=Epdgh9izbMI
-我的明星村長13,https://www.youtube.com/watch?v=eGvuiDCaZBU
-我的明星村長12,https://www.youtube.com/watch?v=QAysrqkptXE
-我的明星村長11,https://www.youtube.com/watch?v=rvb0kxn75Sc
-我的明星村長10,https://www.youtube.com/watch?v=jUV6zjbPe1Y
-我的明星村長9,https://www.youtube.com/watch?v=66obbHytCeE
-我的明星村長8,https://www.youtube.com/watch?v=66obbHytCeE
-我的明星村長7,https://www.youtube.com/watch?v=WLDeX4ddZnE
-我的明星村長6,https://www.youtube.com/watch?v=CnmhkJsm-tA
-我的明星村長5,https://www.youtube.com/watch?v=is1trz7vbE0
-我的明星村長4,https://www.youtube.com/watch?v=-Ljtph-oPUY
-我的明星村長3,https://www.youtube.com/watch?v=Xc2za-_dt6E
-我的明星村長2,https://www.youtube.com/watch?v=rvb0kxn75Sc
-我的明星村長1,https://www.youtube.com/watch?v=-iwB_bKlCyU
 
 油管直播,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
@@ -137,3 +122,18 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 
+我的明星村長,#genre#
+我的明星村長14,https://www.youtube.com/watch?v=Epdgh9izbMI
+我的明星村長13,https://www.youtube.com/watch?v=eGvuiDCaZBU
+我的明星村長12,https://www.youtube.com/watch?v=QAysrqkptXE
+我的明星村長11,https://www.youtube.com/watch?v=rvb0kxn75Sc
+我的明星村長10,https://www.youtube.com/watch?v=jUV6zjbPe1Y
+我的明星村長9,https://www.youtube.com/watch?v=66obbHytCeE
+我的明星村長8,https://www.youtube.com/watch?v=66obbHytCeE
+我的明星村長7,https://www.youtube.com/watch?v=WLDeX4ddZnE
+我的明星村長6,https://www.youtube.com/watch?v=CnmhkJsm-tA
+我的明星村長5,https://www.youtube.com/watch?v=is1trz7vbE0
+我的明星村長4,https://www.youtube.com/watch?v=-Ljtph-oPUY
+我的明星村長3,https://www.youtube.com/watch?v=Xc2za-_dt6E
+我的明星村長2,https://www.youtube.com/watch?v=rvb0kxn75Sc
+我的明星村長1,https://www.youtube.com/watch?v=-iwB_bKlCyU
