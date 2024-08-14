@@ -76,60 +76,60 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 星火台灣,#genre#
 parse=1
 
-ELTA 综合	https://www.xhzb.tw/tv-show-20093-1.html	
-ELTA 影剧	https://www.xhzb.tw/tv-show-20127-1.html	
-EYE 戏剧台	https://www.xhzb.tw/tv-show-20129-1.html	
-MTV Live	https://www.xhzb.tw/tv-show-20132-1.html	
-TVBS	https://www.xhzb.tw/tv-show-20101-1.html	
-TVBS Asia	https://www.xhzb.tw/tv-show-20085-1.html	
-TVBS 欢乐台	https://www.xhzb.tw/tv-show-20126-1.html	
-TVBS 新闻台	https://www.xhzb.tw/tv-show-20102-1.html	
-八大戏剧台	https://www.xhzb.tw/tv-show-20130-1.html	
-八大娱乐台	https://www.xhzb.tw/tv-show-20131-1.html	
-八大第一台	https://www.xhzb.tw/tv-show-20090-1.html	
-八大综合台	https://www.xhzb.tw/tv-show-20089-1.html	
-卫视中文台	https://www.xhzb.tw/tv-show-20122-1.html	
-卫视电影台	https://www.xhzb.tw/tv-show-20120-1.html	
-中天亚洲台	https://www.xhzb.tw/tv-show-20082-1.html	
-中天娱乐台	https://www.xhzb.tw/tv-show-20134-1.html	
-中天综合台	https://www.xhzb.tw/tv-show-20081-1.html	
-中天新闻	https://www.xhzb.tw/tv-show-20100-1.html	
-中视	https://www.xhzb.tw/tv-show-20091-1.html	
-中视新闻	https://www.xhzb.tw/tv-show-20106-1.html	
-公视	https://www.xhzb.tw/tv-show-20096-1.html	
-公视3台	https://www.xhzb.tw/tv-show-20095-1.html	
-东森电影	https://www.xhzb.tw/tv-show-20117-1.html	
-东森戏剧	https://www.xhzb.tw/tv-show-20119-1.html	
-东森财经新闻	https://www.xhzb.tw/tv-show-20104-1.html	
-东森洋片	https://www.xhzb.tw/tv-show-20118-1.html	
-东森综合台	https://www.xhzb.tw/tv-show-20086-1.html	
-东森超视	https://www.xhzb.tw/tv-show-20087-1.html	
-东森新闻	https://www.xhzb.tw/tv-show-20103-1.html	
-台视	https://www.xhzb.tw/tv-show-20088-1.html	
-台视新闻	https://www.xhzb.tw/tv-show-20109-1.html	
-龙华电影台	https://www.xhzb.tw/tv-show-20123-1.html	
-龙华洋片台	https://www.xhzb.tw/tv-show-20124-1.html	
-龙祥电影台	https://www.xhzb.tw/tv-show-20128-1.html	
-华视	https://www.xhzb.tw/tv-show-20092-1.html	
-华视新闻	https://www.xhzb.tw/tv-show-20111-1.html	
-好莱坞电影台	https://www.xhzb.tw/tv-show-20125-1.html	
-年代新闻	https://www.xhzb.tw/tv-show-20107-1.html	
-纬来日本	https://www.xhzb.tw/tv-show-20083-1.html	
-纬来电影台	https://www.xhzb.tw/tv-show-20115-1.html	
-纬来戏剧台	https://www.xhzb.tw/tv-show-20116-1.html	
-纬来综合台	https://www.xhzb.tw/tv-show-20084-1.html	
-非凡新闻	https://www.xhzb.tw/tv-show-20110-1.html	
-客家电视台	https://www.xhzb.tw/tv-show-20094-1.html	
-星卫电影台	https://www.xhzb.tw/tv-show-20114-1.html	
-星卫娱乐台	https://www.xhzb.tw/tv-show-20121-1.html	
-美亚电影台	https://www.xhzb.tw/tv-show-20136-1.html	
-壹新闻	https://www.xhzb.tw/tv-show-20105-1.html	
-靖天电影台	https://www.xhzb.tw/tv-show-20133-1.html	
-靖天国际台	https://www.xhzb.tw/tv-show-20097-1.html	
-靖天资讯台	https://www.xhzb.tw/tv-show-20113-1.html	
-靖洋戏剧台	https://www.xhzb.tw/tv-show-20135-1.html	
-寰宇新闻台	https://www.xhzb.tw/tv-show-20108-1.html	
-镜新闻	https://www.xhzb.tw/tv-show-20112-1.html	
+ELTA 综合,https://www.xhzb.tw/tv-show-20093-1.html	
+ELTA 影剧,https://www.xhzb.tw/tv-show-20127-1.html	
+EYE 戏剧台,https://www.xhzb.tw/tv-show-20129-1.html	
+TVBS,https://www.xhzb.tw/tv-show-20101-1.html	
+TVBS Asia,https://www.xhzb.tw/tv-show-20085-1.html	
+TVBS 欢乐台,https://www.xhzb.tw/tv-show-20126-1.html	
+TVBS 新闻台,https://www.xhzb.tw/tv-show-20102-1.html	
+八大戏剧台,https://www.xhzb.tw/tv-show-20130-1.html	
+八大娱乐台,https://www.xhzb.tw/tv-show-20131-1.html	
+八大第一台,https://www.xhzb.tw/tv-show-20090-1.html	
+八大综合台,https://www.xhzb.tw/tv-show-20089-1.html	
+卫视中文台,https://www.xhzb.tw/tv-show-20122-1.html	
+卫视电影台,https://www.xhzb.tw/tv-show-20120-1.html	
+中天亚洲台,https://www.xhzb.tw/tv-show-20082-1.html	
+中天娱乐台,https://www.xhzb.tw/tv-show-20134-1.html	
+中天综合台,https://www.xhzb.tw/tv-show-20081-1.html	
+中天新闻,https://www.xhzb.tw/tv-show-20100-1.html	
+中视,https://www.xhzb.tw/tv-show-20091-1.html	
+中视新闻,https://www.xhzb.tw/tv-show-20106-1.html	
+公视,https://www.xhzb.tw/tv-show-20096-1.html	
+公视3台,https://www.xhzb.tw/tv-show-20095-1.html	
+东森电影,https://www.xhzb.tw/tv-show-20117-1.html	
+东森戏剧,https://www.xhzb.tw/tv-show-20119-1.html	
+东森财经新闻,https://www.xhzb.tw/tv-show-20104-1.html	
+东森洋片,https://www.xhzb.tw/tv-show-20118-1.html	
+东森综合台,https://www.xhzb.tw/tv-show-20086-1.html	
+东森超视,https://www.xhzb.tw/tv-show-20087-1.html	
+东森新闻,https://www.xhzb.tw/tv-show-20103-1.html	
+台视,https://www.xhzb.tw/tv-show-20088-1.html	
+台视新闻,https://www.xhzb.tw/tv-show-20109-1.html	
+龙华电影台,https://www.xhzb.tw/tv-show-20123-1.html	
+龙华洋片台,https://www.xhzb.tw/tv-show-20124-1.html	
+龙祥电影台,https://www.xhzb.tw/tv-show-20128-1.html	
+华视,https://www.xhzb.tw/tv-show-20092-1.html	
+华视新闻,https://www.xhzb.tw/tv-show-20111-1.html	
+好莱坞电影台,https://www.xhzb.tw/tv-show-20125-1.html	
+年代新闻,https://www.xhzb.tw/tv-show-20107-1.html	
+纬来日本,https://www.xhzb.tw/tv-show-20083-1.html	
+纬来电影台,https://www.xhzb.tw/tv-show-20115-1.html	
+纬来戏剧台,https://www.xhzb.tw/tv-show-20116-1.html	
+纬来综合台,https://www.xhzb.tw/tv-show-20084-1.html	
+非凡新闻,https://www.xhzb.tw/tv-show-20110-1.html	
+星卫电影台,https://www.xhzb.tw/tv-show-20114-1.html	
+星卫娱乐台,https://www.xhzb.tw/tv-show-20121-1.html	
+美亚电影台,https://www.xhzb.tw/tv-show-20136-1.html	
+壹新闻,https://www.xhzb.tw/tv-show-20105-1.html	
+靖天电影台,https://www.xhzb.tw/tv-show-20133-1.html	
+靖天国际台,https://www.xhzb.tw/tv-show-20097-1.html	
+靖天资讯台,https://www.xhzb.tw/tv-show-20113-1.html	
+靖洋戏剧台,https://www.xhzb.tw/tv-show-20135-1.html	
+寰宇新闻台,https://www.xhzb.tw/tv-show-20108-1.html	
+镜新闻,https://www.xhzb.tw/tv-show-20112-1.html	
+		
+
 		
 
 4GTV頻道,#genre#
