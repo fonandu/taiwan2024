@@ -54,6 +54,8 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 智能电视盒子应用分享和交流 https://t.me/tvbox002
 
+epg.pw https://t.me/epg_chinese
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
