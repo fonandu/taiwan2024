@@ -65,6 +65,8 @@ MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 
 日本新聞,#genre#
+parse=1
+
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 日テレNEWS LIVE,https://www.youtube.com/watch?v=VDhPBOOSDlw
 TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
