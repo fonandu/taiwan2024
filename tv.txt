@@ -1,4 +1,4 @@
-MOD卡通,#genre#
+MOD新聞,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
 華視,rtmp://f13h.mine.nu/sat/tv111
