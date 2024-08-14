@@ -1,3 +1,6 @@
+litv頻道,#genre#
+parse=1
+
   1  頻道表,https://www.litv.tv/channel/watch/litv-vchannel1
   2  LiTV 精采預告,https://www.litv.tv/channel/watch/litv-vchannel2
   4  民視第一台,https://www.litv.tv/channel/watch/4gtv-4gtv003
