@@ -80,6 +80,8 @@ tvbox接口 https://t.me/TVBoxjkou
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
+======================
+日本新聞
 
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
