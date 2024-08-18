@@ -100,3 +100,11 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 北海道ニュース24,https://www.youtube.com/watch?v=d8CrKBU99Hg
 
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
+
+
+
+Honey Milk Tea:
+63個 http://tonkiang.us/?name=123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn
+
+138個
+http://tonkiang.us/?name=4gtv.mumi.rip:9877
