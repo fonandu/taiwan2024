@@ -8,6 +8,17 @@ CBeebies,udp://@224.1.4.75:11111
 
 TVBS新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv072
 東森新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv152
+民視新聞,https://sxg.btjson.us.kg/litv/litv-ftv13
+中天新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv009
+三立財經,https://sxg.btjson.us.kg/4gtv/229
+東森財經,https://sxg.btjson.us.kg/litv/4gtv-4gtv153
+華視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv052
+中視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv074
+台視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv051
+寰宇新聞,https://sxg.btjson.us.kg/litv/litv-longturn14
+寰宇新聞台灣,https://sxg.btjson.us.kg/litv/litv-longturn15
+鏡電視新聞台,https://sxg.btjson.us.kg/litv/4gtv-4gtv075
+
 
 油管新聞,#genre#
 
