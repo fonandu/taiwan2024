@@ -15,13 +15,8 @@ TVBS新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv072
 華視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv052
 中視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv074
 台視新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv051
-寰宇新聞,https://sxg.btjson.us.kg/litv/litv-longturn14
-寰宇新聞台灣,https://sxg.btjson.us.kg/litv/litv-longturn15
-鏡電視新聞台,https://sxg.btjson.us.kg/litv/4gtv-4gtv075
-
 
 油管新聞,#genre#
-
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -31,9 +26,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 靖天龍華,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
