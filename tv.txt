@@ -6,7 +6,6 @@ CBeebies,udp://@224.1.4.75:11111
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 民视,rtmp://f13h.mine.nu/sat/tv051
 
-
 TVBS新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv072
 東森新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv152
 
