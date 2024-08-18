@@ -11,7 +11,6 @@ TVBS新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv072
 東森新聞,https://sxg.btjson.us.kg/litv/4gtv-4gtv152
 
 油管新聞,#genre#
-parse=1
 
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -54,7 +53,6 @@ Smart知識台,https://sxg.btjson.us.kg/litv/litv-longturn19
 龍華戲劇,https://sxg.btjson.us.kg/litv/litv-longturn18
 
 油管直播,#genre#
-parse=1
 
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
