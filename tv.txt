@@ -2,6 +2,7 @@ MOD新聞,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
 蠟筆小新,https://cdi.ofiii.com/ocean/video/playlist/mBjR1sgiQVc/master.m3u8
+我們這一家,https://cdi.ofiii.com/ocean/video/playlist/J6hGRoJrXfY/master.m3u8
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
