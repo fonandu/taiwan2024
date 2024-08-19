@@ -98,7 +98,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 烏龍派出所特別篇554,https://www.youtube.com/watch?v=lPW_admVYRA				
 烏龍派出所特別篇556,https://www.youtube.com/watch?v=TsfbolyHzHo				
 烏龍派出所特別篇557,https://www.youtube.com/watch?v=AxSxjiK-BbU				
-烏龍派出所特別篇559,https://www.youtube.com/watch?v=7yD_fzunvqY&t=17s				
+烏龍派出所特別篇559,https://www.youtube.com/watch?v=7yD_fzunvqY				
 烏龍派出所特別篇565,https://www.youtube.com/watch?v=-u9bL9HDj18				
 烏龍派出所特別篇566,https://www.youtube.com/watch?v=KWkIbrPWIzw				
 烏龍派出所特別篇569,https://www.youtube.com/watch?v=4Dhnnnelo5g				
@@ -157,7 +157,7 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 烏龍派出所特別篇633,https://www.youtube.com/watch?v=2ifjxm_V4sw				
 烏龍派出所特別篇634,https://www.youtube.com/watch?v=_aghUWoIjN8				
 烏龍派出所特別篇635,https://www.youtube.com/watch?v=raUD4-3EydU				
-烏龍派出所特別篇636,https://www.youtube.com/watch?v=EWiRGV3lwxQ&t=9s				
+烏龍派出所特別篇636,https://www.youtube.com/watch?v=EWiRGV3lwxQ				
 烏龍派出所特別篇637,https://www.youtube.com/watch?v=WW4prDFYeZM	
 				
 
