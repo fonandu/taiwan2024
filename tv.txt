@@ -445,6 +445,27 @@ parse=1
 
 星火台灣,#genre#
 parse=1
+
+緯來日本,https://www.xhzb.tw/tv-show-20083-1.html
+緯來電影台,https://www.xhzb.tw/tv-show-20115-1.html
+緯來綜合台,https://www.xhzb.tw/tv-show-20084-1.html
+緯來戲劇台,https://www.xhzb.tw/tv-show-20116-1.html
+
+八大娛樂台,https://www.xhzb.tw/tv-show-20131-1.html
+八大第一台,https://www.xhzb.tw/tv-show-20090-1.html
+八大綜合台,https://www.xhzb.tw/tv-show-20089-1.html
+八大戲劇台,https://www.xhzb.tw/tv-show-20130-1.html
+
+東森電影,https://www.xhzb.tw/tv-show-20117-1.html
+星衛電影台,https://www.xhzb.tw/tv-show-20114-1.html
+美亞電影台,https://www.xhzb.tw/tv-show-20136-1.html
+衛視電影台,https://www.xhzb.tw/tv-show-20120-1.html
+龍祥電影台,https://www.xhzb.tw/tv-show-20128-1.html
+龍華洋片台,https://www.xhzb.tw/tv-show-20124-1.html
+龍華電影台,https://www.xhzb.tw/tv-show-20123-1.html
+東森洋片,https://www.xhzb.tw/tv-show-20118-1.html
+好萊塢電影台,https://www.xhzb.tw/tv-show-20125-1.html
+
 ELTA 綜合,https://www.xhzb.tw/tv-show-20093-1.html
 ELTA 影劇,https://www.xhzb.tw/tv-show-20127-1.html
 EYE 戲劇台,https://www.xhzb.tw/tv-show-20129-1.html
@@ -453,10 +474,7 @@ TVBS,https://www.xhzb.tw/tv-show-20101-1.html
 TVBS Asia,https://www.xhzb.tw/tv-show-20085-1.html
 TVBS 新聞台,https://www.xhzb.tw/tv-show-20102-1.html
 TVBS 歡樂台,https://www.xhzb.tw/tv-show-20126-1.html
-八大娛樂台,https://www.xhzb.tw/tv-show-20131-1.html
-八大第一台,https://www.xhzb.tw/tv-show-20090-1.html
-八大綜合台,https://www.xhzb.tw/tv-show-20089-1.html
-八大戲劇台,https://www.xhzb.tw/tv-show-20130-1.html
+
 大愛一台,https://www.xhzb.tw/tv-show-20098-1.html
 大愛二台,https://www.xhzb.tw/tv-show-20099-1.html
 中天亞洲台,https://www.xhzb.tw/tv-show-20082-1.html
@@ -469,20 +487,18 @@ TVBS 歡樂台,https://www.xhzb.tw/tv-show-20126-1.html
 公視3台,https://www.xhzb.tw/tv-show-20095-1.html
 台視,https://www.xhzb.tw/tv-show-20088-1.html
 台視新聞,https://www.xhzb.tw/tv-show-20109-1.html
-好萊塢電影台,https://www.xhzb.tw/tv-show-20125-1.html
+
 年代新聞,https://www.xhzb.tw/tv-show-20107-1.html
-東森洋片,https://www.xhzb.tw/tv-show-20118-1.html
+
+東森新聞,https://www.xhzb.tw/tv-show-20103-1.html
 東森財經新聞,https://www.xhzb.tw/tv-show-20104-1.html
 東森超視,https://www.xhzb.tw/tv-show-20087-1.html
-東森新聞,https://www.xhzb.tw/tv-show-20103-1.html
-東森電影,https://www.xhzb.tw/tv-show-20117-1.html
 東森綜合台,https://www.xhzb.tw/tv-show-20086-1.html
 東森戲劇,https://www.xhzb.tw/tv-show-20119-1.html
 非凡新聞,https://www.xhzb.tw/tv-show-20110-1.html
 客家電視台,https://www.xhzb.tw/tv-show-20094-1.html
 星衛娛樂台,https://www.xhzb.tw/tv-show-20121-1.html
-星衛電影台,https://www.xhzb.tw/tv-show-20114-1.html
-美亞電影台,https://www.xhzb.tw/tv-show-20136-1.html
+
 壹新聞,https://www.xhzb.tw/tv-show-20105-1.html
 華視,https://www.xhzb.tw/tv-show-20092-1.html
 華視新聞,https://www.xhzb.tw/tv-show-20111-1.html
@@ -490,15 +506,7 @@ TVBS 歡樂台,https://www.xhzb.tw/tv-show-20126-1.html
 靖天資訊台,https://www.xhzb.tw/tv-show-20113-1.html
 靖天電影台,https://www.xhzb.tw/tv-show-20133-1.html
 靖洋戲劇台,https://www.xhzb.tw/tv-show-20135-1.html
-緯來日本,https://www.xhzb.tw/tv-show-20083-1.html
-緯來電影台,https://www.xhzb.tw/tv-show-20115-1.html
-緯來綜合台,https://www.xhzb.tw/tv-show-20084-1.html
-緯來戲劇台,https://www.xhzb.tw/tv-show-20116-1.html
-衛視中文台,https://www.xhzb.tw/tv-show-20122-1.html
-衛視電影台,https://www.xhzb.tw/tv-show-20120-1.html
 寰宇新聞台,https://www.xhzb.tw/tv-show-20108-1.html
-龍祥電影台,https://www.xhzb.tw/tv-show-20128-1.html
-龍華洋片台,https://www.xhzb.tw/tv-show-20124-1.html
-龍華電影台,https://www.xhzb.tw/tv-show-20123-1.html
+衛視中文台,https://www.xhzb.tw/tv-show-20122-1.html
 鏡新聞,https://www.xhzb.tw/tv-show-20112-1.html
 
