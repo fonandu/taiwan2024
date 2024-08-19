@@ -303,9 +303,9 @@ parse=1
 
 ofiii歐飛,#genre#
 parse=1
-8 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066		
-10 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040		
-12 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041		
+8 台視,https://www.ofiii.com/channel/4gtv-4gtv066		
+10 中視,https://www.ofiii.com/channel/4gtv-4gtv040		
+12 華視,https://www.ofiii.com/channel/4gtv-4gtv041		
 13 公視金獎台,https://www.ofiii.com/channel/watch/ofiii13		
 14 好消息2台,https://www.ofiii.com/channel/watch/litv-ftv17		
 15 好消息,https://www.ofiii.com/channel/watch/litv-ftv16		
