@@ -32,8 +32,6 @@ CCTV直播,https://tv.cctv.com/live
 
 易播機上盒使用教學 https://6868jx.com
 
-timi技術交流群  https://t.me/Tvb_Super_com_mp
-
 极致播放器交流群 https://t.me/jizhi222
 
 影視TV https://t.me/fongmi_offical
