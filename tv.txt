@@ -519,8 +519,7 @@ EYETV 旅游,https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVl%C3%BCyou.ht
 卫视电影台,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weishidianyingtai.html		
 卫视中文台 Star Movies Chinese,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weishizhongwentaiStarMoviesChinese.html		
 MTV Live,https://www.chaojidianshi.net/zhibo/gangtaizhibo/MTVLive.html		
-		
-			
+
 博斯无限,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiwuxian.html		
 博斯网球 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosiwangqiu.html		
 博斯高球2 HD,https://www.chaojidianshi.net/zhibo/gangtaizhibo/bosigaoqiu2.html		
