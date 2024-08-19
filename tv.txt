@@ -27,30 +27,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-Smart知識台,https://sxg.btjson.us.kg/litv/litv-longturn19
-民視旅遊,https://sxg.btjson.us.kg/litv/litv-ftv07
-亞洲旅遊,https://sxg.btjson.us.kg/litv/litv-longturn17
-愛爾達旅遊,https://sxg.btjson.us.kg/4gtv/237
-
-靖天日本,https://sxg.btjson.us.kg/litv/4gtv-4gtv047
-靖天卡通,https://sxg.btjson.us.kg/litv/4gtv-4gtv044
-靖天育樂,https://sxg.btjson.us.kg/litv/4gtv-4gtv062
-靖天映畫,https://sxg.btjson.us.kg/litv/4gtv-4gtv055
-靖天國際,https://sxg.btjson.us.kg/litv/4gtv-4gtv063
-靖天資訊,https://sxg.btjson.us.kg/litv/4gtv-4gtv065
-靖天電影,https://sxg.btjson.us.kg/litv/4gtv-4gtv061
-靖天綜合,https://sxg.btjson.us.kg/litv/4gtv-4gtv046
-靖天戲劇,https://sxg.btjson.us.kg/litv/4gtv-4gtv058
-靖天歡樂,https://sxg.btjson.us.kg/litv/4gtv-4gtv054
-靖洋卡通,https://sxg.btjson.us.kg/litv/4gtv-4gtv057
-靖洋戲劇,https://sxg.btjson.us.kg/litv/4gtv-4gtv045
-
-龍華日韓,https://sxg.btjson.us.kg/litv/litv-longturn11
-龍華卡通,https://sxg.btjson.us.kg/litv/litv-longturn01
-龍華偶像,https://sxg.btjson.us.kg/litv/litv-longturn12
-龍華經典,https://sxg.btjson.us.kg/litv/litv-longturn21
-龍華電影,https://sxg.btjson.us.kg/litv/litv-longturn03
-龍華戲劇,https://sxg.btjson.us.kg/litv/litv-longturn18
 
 油管直播,#genre#
 
