@@ -1,4 +1,4 @@
-M3U-4GTV播放列表地址：https://www.mytvsuper.com.mp/4gtv_dussl.m3u
+histar 播放列表地址：https://t4.doube.eu.org/XingShiJie.txt
 
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
