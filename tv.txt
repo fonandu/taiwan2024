@@ -16,12 +16,6 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 星火台灣,#genre#
 parse=1
 
-CCTV1,https://www.histar.tv/live/cctv1
-CCTV9,https://www.histar.tv/live/cctv9
-CCTV10,https://www.histar.tv/live/cctv10
-CCTV13,https://www.histar.tv/live/cctv13
-東森幼幼,https://www.histar.tv/live/ebc-yoyo
-
 緯來日本,https://www.xhzb.tw/tv-show-20083-1.html
 緯來綜合,https://www.xhzb.tw/tv-show-20084-1.html
 八大綜合,https://www.xhzb.tw/tv-show-20089-1.html
