@@ -15,6 +15,9 @@ parse=1
 緯來綜合,https://www.xhzb.tw/tv-show-20084-1.html
 八大綜合,https://www.xhzb.tw/tv-show-20089-1.html
 八大戲劇,https://www.xhzb.tw/tv-show-20130-1.html
+東森超視,https://www.xhzb.tw/tv-show-20087-1.html
+東森綜合,https://www.xhzb.tw/tv-show-20086-1.html
+東森戲劇,https://www.xhzb.tw/tv-show-20119-1.html
 ELTA綜合,https://www.xhzb.tw/tv-show-20093-1.html
 ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
 東森電影,https://www.xhzb.tw/tv-show-20117-1.html
