@@ -18,10 +18,10 @@ parse=1
 東森超視,https://www.xhzb.tw/tv-show-20087-1.html
 東森綜合,https://www.xhzb.tw/tv-show-20086-1.html
 東森戲劇,https://www.xhzb.tw/tv-show-20119-1.html
-ELTA綜合,https://www.xhzb.tw/tv-show-20093-1.html
-ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
 東森電影,https://www.xhzb.tw/tv-show-20117-1.html
 東森洋片,https://www.xhzb.tw/tv-show-20118-2.html
+ELTA綜合,https://www.xhzb.tw/tv-show-20093-1.html
+ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
 好萊塢電影,https://www.xhzb.tw/tv-show-20125-1.html
 美亞電影,https://www.xhzb.tw/tv-show-20136-1.html
 龍祥電影,https://www.xhzb.tw/tv-show-20128-1.html
