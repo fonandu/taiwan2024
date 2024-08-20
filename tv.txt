@@ -1,7 +1,8 @@
 MOD新聞,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼,http://23.26.239.95:3599/xsj.php?id=ebc-yoyo
+東森幼幼1,http://23.26.239.95:3599/xsj.php?id=ebc-yoyo
+東森幼幼2,https://py.doube.eu.org/tv/histar/getUrl/ebc-yoyo/index.m3u8
 
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
