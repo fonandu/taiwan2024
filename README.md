@@ -46,8 +46,6 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-电视直播交流群 https://t.me/atv168
-
 必勝影視交流群 https://t.me/beatsingdrama
 
 智能电视盒子应用分享和交流 https://t.me/tvbox002
