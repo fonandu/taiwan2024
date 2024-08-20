@@ -32,9 +32,6 @@ ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
 龍祥電影,https://www.xhzb.tw/tv-show-20128-1.html
 龍華電影,https://www.xhzb.tw/tv-show-20114-1.html
 好萊塢電影,https://www.xhzb.tw/tv-show-20125-1.html
-
-無線新聞,https://news.tvb.com/tc/live/83
-
 壹新聞,https://www.xhzb.tw/tv-show-20105-1.html
 年代新聞,https://www.xhzb.tw/tv-show-20107-1.html
 
