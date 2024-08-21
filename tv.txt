@@ -39,21 +39,11 @@ parse=1
 1綜合,https://www.xhzb.tw/tv-show-20000-6.html
 2財經,https://www.xhzb.tw/tv-show-20001-2.html
 3綜藝,https://www.xhzb.tw/tv-show-20002-2.html
-4中文國際,https://www.xhzb.tw/tv-show-20003-3.html
-5體育,https://www.xhzb.tw/tv-show-20004-3.html
-5+體育賽事,https://www.xhzb.tw/tv-show-20017-1.html
 6電影,https://www.xhzb.tw/tv-show-20005-2.html
-7國防軍事,https://www.xhzb.tw/tv-show-20006-3.html
-8電視劇,https://www.xhzb.tw/tv-show-20007-1.html
-9紀錄,https://www.xhzb.tw/tv-show-20008-1.html
-10科教,https://www.xhzb.tw/tv-show-20009-1.html
-11戲曲,https://www.xhzb.tw/tv-show-20010-1.html
-12社會與法,https://www.xhzb.tw/tv-show-20011-1.html
-13新聞,https://www.xhzb.tw/tv-show-20012-1.html
-14少兒,https://www.xhzb.tw/tv-show-20013-1.html
-15音樂,https://www.xhzb.tw/tv-show-20014-1.html
-16奧林匹克,https://www.xhzb.tw/tv-show-20015-1.html
-17農業農村,https://www.xhzb.tw/tv-show-20016-1.html
+8電視劇,https://www.xhzb.tw/tv-show-20007-2.html
+9紀錄,https://www.xhzb.tw/tv-show-20008-2.html
+10科教,https://www.xhzb.tw/tv-show-20009-2.html
+13新聞,https://www.xhzb.tw/tv-show-20012-3.html
 
 
 油管新聞,#genre#
