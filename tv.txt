@@ -40,10 +40,10 @@ parse=1
 2財經,https://www.xhzb.tw/tv-show-20001-2.html
 3綜藝,https://www.xhzb.tw/tv-show-20002-2.html
 4中文國際,https://www.xhzb.tw/tv-show-20003-3.html
-5體育,https://www.xhzb.tw/tv-show-20004-1.html
+5體育,https://www.xhzb.tw/tv-show-20004-3.html
 5+體育賽事,https://www.xhzb.tw/tv-show-20017-1.html
-6電影,https://www.xhzb.tw/tv-show-20005-1.html
-7國防軍事,https://www.xhzb.tw/tv-show-20006-1.html
+6電影,https://www.xhzb.tw/tv-show-20005-2.html
+7國防軍事,https://www.xhzb.tw/tv-show-20006-3.html
 8電視劇,https://www.xhzb.tw/tv-show-20007-1.html
 9紀錄,https://www.xhzb.tw/tv-show-20008-1.html
 10科教,https://www.xhzb.tw/tv-show-20009-1.html
