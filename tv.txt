@@ -44,6 +44,9 @@ parse=1
 9紀錄,https://www.xhzb.tw/tv-show-20008-2.html
 10科教,https://www.xhzb.tw/tv-show-20009-2.html
 
+愛爾達體育1台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu1tai.html
+愛爾達體育2台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu2tai.html
+
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
