@@ -1,4 +1,6 @@
-histar 播放列表地址：https://t4.doube.eu.org/XingShiJie.txt
+histar 播放列表地址1：https://t4.doube.eu.org/XingShiJie.txt
+
+histar 播放列表地址2：https://raw.githubusercontent.com/kan31467/1/27a3358e459c57e9d594389065718303a0e34722/tv/23.txt
 
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
