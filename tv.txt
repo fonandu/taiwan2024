@@ -43,8 +43,6 @@ parse=1
 8電視劇,https://www.xhzb.tw/tv-show-20007-2.html
 9紀錄,https://www.xhzb.tw/tv-show-20008-2.html
 10科教,https://www.xhzb.tw/tv-show-20009-2.html
-13新聞,https://www.xhzb.tw/tv-show-20012-3.html
-
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
