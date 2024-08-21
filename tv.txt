@@ -335,4 +335,8 @@ parse=1
 烏龍派出所特別篇635,https://www.youtube.com/watch?v=raUD4-3EydU				
 烏龍派出所特別篇636,https://www.youtube.com/watch?v=EWiRGV3lwxQ				
 烏龍派出所特別篇637,https://www.youtube.com/watch?v=WW4prDFYeZM	
+烏龍派出所特別篇638,https://www.youtube.com/watch?v=unk4v_EO8hk
+烏龍派出所特別篇639,https://www.youtube.com/watch?v=rx7kXi2XQDM
+烏龍派出所特別篇640,https://www.youtube.com/watch?v=W0CaFYXpUIk
+烏龍派出所特別篇641,https://www.youtube.com/watch?v=-ryuYCJ4-dg
 
