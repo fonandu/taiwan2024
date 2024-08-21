@@ -37,7 +37,7 @@ ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
 parse=1
 
 1綜合,https://www.xhzb.tw/tv-show-20000-6.html
-2財經,https://www.xhzb.tw/tv-show-20001-1.html
+2財經,https://www.xhzb.tw/tv-show-20001-2.html
 3綜藝,https://www.xhzb.tw/tv-show-20002-1.html
 4中文國際,https://www.xhzb.tw/tv-show-20003-1.html
 5體育,https://www.xhzb.tw/tv-show-20004-1.html
