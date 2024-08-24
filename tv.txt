@@ -30,18 +30,6 @@ parse=1
 年代新聞,https://www.xhzb.tw/tv-show-20107-1.html
 ELTA綜合,https://www.xhzb.tw/tv-show-20093-1.html
 ELTA影劇,https://www.xhzb.tw/tv-show-20127-1.html
-
-星火央視,#genre#
-parse=1
-
-1綜合,https://www.xhzb.tw/tv-show-20000-6.html
-2財經,https://www.xhzb.tw/tv-show-20001-2.html
-3綜藝,https://www.xhzb.tw/tv-show-20002-2.html
-6電影,https://www.xhzb.tw/tv-show-20005-2.html
-8電視劇,https://www.xhzb.tw/tv-show-20007-2.html
-9紀錄,https://www.xhzb.tw/tv-show-20008-2.html
-10科教,https://www.xhzb.tw/tv-show-20009-2.html
-
 愛爾達體育1台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu1tai.html
 愛爾達體育2台,https://www.chaojidianshi.net/zhibo/tiyuzhibo/aierdatiyu2tai.html
 
