@@ -1,8 +1,6 @@
 MOD新聞,#genre#
 CBeebies,udp://@224.1.4.75:11111
 
-東森幼幼,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
