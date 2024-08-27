@@ -4,6 +4,8 @@
   { "name": "直播2 - 安博" ,"type": 0, "url": "https://tang.hz.cz/zb/anbo?token=cb70f1ae", "playerType": 2 },	   
   
   { "name": "直播3 - 台湾" ,"type": 0, "url": "https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u", "playerType": 2 },	  
+
+  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u
   
   { "name": "直播4 - 美国" ,"type": 0, "url": "https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8", "playerType": 2 },
 
