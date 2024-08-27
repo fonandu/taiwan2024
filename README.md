@@ -1,3 +1,5 @@
+fm json https://raw.githubusercontent.com/shawn82/fm/f7d61d6b58566bf6086a1ebb06045acff77fa8e2/fm.json
+
 histar 星視界播放列表地址1：https://t4.doube.eu.org/XingShiJie.txt
 
 histar 星視界播放列表地址2：https://raw.githubusercontent.com/kan31467/1/27a3358e459c57e9d594389065718303a0e34722/tv/23.txt
