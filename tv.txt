@@ -33,26 +33,26 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 民視旅遊,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
 亞洲旅遊,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
-Smart知識,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
+Smart知識台,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
 采昌影劇,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 愛爾達娛樂台,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
 
-靖天日本台,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
-靖天卡通台,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
-靖天育樂台,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
+靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
+靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
 靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
-靖天資訊台,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
-靖天電影台,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
-靖天綜合台,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
-靖天戲劇台,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
-靖洋卡通Nice Bingo,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
-靖洋戲劇台,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
+靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
+靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
+靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖洋卡通,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 
-龍華日韓台,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
-龍華卡通台,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
-龍華偶像台,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
-龍華電影台,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
-龍華戲劇台,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
+龍華日韓,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
+龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
+龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
+龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
 
 油管直播,#genre#
 
@@ -189,32 +189,32 @@ VOA美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 達文西頻道,http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
 電影免費看 2台,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
 電影原聲台CMusic,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
-靖天日本台,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
-靖天卡通台,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
-靖天育樂台,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
+靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
+靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
 靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
-靖天資訊台,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
-靖天電影台,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
-靖天綜合台,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
-靖天戲劇台,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
-靖洋卡通Nice Bingo,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
-靖洋戲劇台,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
+靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
+靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
+靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖洋卡通,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
 精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
 影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
 影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
 豬哥亮歌廳秀,http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
+寰宇台灣台,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
 寰宇財經台,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8
 寰宇新聞台,http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
-龍華日韓台,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
-龍華卡通台,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
-龍華偶像台,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
-龍華電影台,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
-龍華戲劇台,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
-戲劇免費看 1台,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
-戲劇免費看 2台,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
-鏡電視新聞台,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
+龍華日韓,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
+龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
+龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
+龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
+戲劇免費看1台,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
+戲劇免費看2台,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
+鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
 霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
 
 
