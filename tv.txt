@@ -100,7 +100,6 @@ Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3
 History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
 HITS頻道,http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
 i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
-KLT-靖天國際台,http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
 Lifetime 娛樂頻道,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
 LiveABC互動英語頻道,http://4gtv.mumi.rip:9877/188/4gtv-live030/index.m3u8
 Love Nature,http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
@@ -109,7 +108,6 @@ Mezzo Live HD,http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
 MOMO親子台,http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
 MTV Live HD 音樂頻道,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
 My Cinema Europe HD 我的歐洲電影,http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
-Nice TV 靖天歡樂台,http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
 Nick Jr. 兒童頻道,http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
 Pet Club TV,http://4gtv.mumi.rip:9877/182/4gtv-live110/index.m3u8
 ROCK Action,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
@@ -193,10 +191,12 @@ VOA美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
 靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
 靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
+靖天國際,http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
 靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
 靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
 靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
 靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖天歡樂,http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
 靖洋卡通,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
 靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
