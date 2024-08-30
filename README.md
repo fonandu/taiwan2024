@@ -57,6 +57,10 @@ CCTV直播,https://tv.cctv.com/live
 
 易播機上盒使用教學 https://6868jx.com
 
+**********
+
+电报群： https://t.me/+z1BOPITtAmI4ZWZl 新版本将在该群第一时间放出。
+
 极致播放器交流群 https://t.me/jizhi222
 
 影視TV https://t.me/fongmi_offical
