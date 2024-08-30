@@ -161,12 +161,10 @@ VOA美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 東森購物二台,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
 東森購物三台,http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
 東森購物四台,http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
-芭樂直擊台,http://4gtv.mumi.rip:9877/290/4gtv-live302/index.m3u8
 花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
 采昌影劇台,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 金光布袋戲,http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
 客家電視台,http://4gtv.mumi.rip:9877/107/4gtv-4gtv043/index.m3u8
-香蕉直擊台,http://4gtv.mumi.rip:9877/94/4gtv-4gtv038/index.m3u8
 原住民族電視台,http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8
 時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
 國會頻道1,http://4gtv.mumi.rip:9877/170/4gtv-4gtv084/index.m3u8
@@ -179,7 +177,6 @@ VOA美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 博斯網球台,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
 博斯魅力台,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 智林體育台,http://4gtv.mumi.rip:9877/58/4gtv-4gtv101/index.m3u8
-番茄直擊台,http://4gtv.mumi.rip:9877/289/4gtv-live301/index.m3u8
 華視,http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 華視新聞,http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 視納華仁紀實頻道,http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
@@ -204,7 +201,6 @@ VOA美國之音,http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
 靖洋戲劇台,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
 精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
-鳳梨直擊台,http://4gtv.mumi.rip:9877/93/4gtv-4gtv035/index.m3u8
 影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
 影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
 豬哥亮歌廳秀,http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
