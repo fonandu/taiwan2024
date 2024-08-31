@@ -309,6 +309,7 @@ VOA美國之音,https://qq01xp.serv00.net/litv.php?id=litv-ftv03
 龍華戲劇,https://qq01xp.serv00.net/litv.php?id=litv-longturn18
 
 山東大學,#genre#
+parse=1
 
 CCTV1综合高清,http://video.qd.sdu.edu.cn/tv-show-detail/337		
 CCTV2财经高清,http://video.qd.sdu.edu.cn/tv-show-detail/338		
