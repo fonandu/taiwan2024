@@ -101,6 +101,10 @@ tvbox接口 https://t.me/TVBoxjkou
 
 iptv epg.pw https://t.me/iptv_crawl
 
+**********
+
+EPG機器人 @myepg_bot
+
 霸霸 @baba_xbot
 
 香港源 @hkanime_bot
