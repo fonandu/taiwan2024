@@ -246,7 +246,7 @@ BTV11紀實高清,http://video.qd.sdu.edu.cn/tv-show-detail/357
 雲南衛視,http://video.qd.sdu.edu.cn/tv-show-detail/435		
 新疆衛視,http://video.qd.sdu.edu.cn/tv-show-detail/433		
 寧夏衛視,http://video.qd.sdu.edu.cn/tv-show-detail/439				
-内蒙古衛視http://video.qd.sdu.edu.cn/tv-show-detail/426	
+内蒙古衛視,http://video.qd.sdu.edu.cn/tv-show-detail/426	
 		
 CCTV-第一劇場,http://video.qd.sdu.edu.cn/tv-show-detail/394		
 CCTV-世界地理,http://video.qd.sdu.edu.cn/tv-show-detail/395		
