@@ -204,7 +204,7 @@ BTV7生活,http://video.qd.sdu.edu.cn/tv-show-detail/407
 BTV8青年,http://video.qd.sdu.edu.cn/tv-show-detail/408	
 BTV10 Kaku少兒,http://video.qd.sdu.edu.cn/tv-show-detail/449		
 
-CHC高清電影,http://video.qd.sdu.edu.cn/tv-show-detail/351
+CHC影迷電影,http://video.qd.sdu.edu.cn/tv-show-detail/351
 CHC動作電影,http://video.qd.sdu.edu.cn/tv-show-detail/447		
 CHC家庭影院,http://video.qd.sdu.edu.cn/tv-show-detail/448
 
