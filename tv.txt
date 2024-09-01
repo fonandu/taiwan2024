@@ -12,7 +12,7 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 靖天日本,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv047
 民視旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-ftv07
 亞洲旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
-Smart知識台,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
+
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -34,29 +34,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-
-民視旅遊,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-亞洲旅遊,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
-Smart知識台,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
-采昌影劇,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
-愛爾達娛樂台,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
-
-靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
-靖天卡通,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
-靖天育樂,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
-靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
-靖天資訊,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
-靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
-靖天綜合,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
-靖天戲劇,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
-靖洋卡通,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
-靖洋戲劇,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
-
-龍華日韓,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
-龍華卡通,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
-龍華偶像,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
-龍華電影,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
-龍華戲劇,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
 
 油管直播,#genre#
 
