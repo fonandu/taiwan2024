@@ -14,6 +14,9 @@ TVBS新聞,https://qq01xp.serv00.net/litv.php?id=4gtv-4gtv072
 亞洲旅遊台,https://qq01xp.serv00.net/litv.php?id=litv-longturn17
 Smart知識台,https://qq01xp.serv00.net/litv.php?id=litv-longturn19
 
+9紀錄,http://video.qd.sdu.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/1cce5dd1d2-0-0-ac005ff8a2ae499a97d1f09aff1b9899/index.m3u8
+10科教,http://video.qd.sdu.edu.cn/liverespath/96f212c8bb9eca90c8f15ae041b4f64b3a3ba67b/7975a942e2-0-0-10d58080d70e4671e5126c568367674e/index.m3u8
+
 CHC影迷電影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/6613464ddf-0-0-05f62634d459ac360ddc3a18facd1eeb/index.m3u8
 CHC動作電影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/c55a1f9f91-0-0-3056aa1a4eadc2884828bef606138fec/index.m3u8		
 CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/5d7f7028d5-0-0-0cd1e0dd7eafb9dff118ce2c737f68bc/index.m3u8
