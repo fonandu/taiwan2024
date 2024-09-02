@@ -1,27 +1,4 @@
-https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master
-
 愛尚直播,https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
-
-
-"lives": [ 
-  { "name": "直播1 - 大陆台湾区无法播放","type": 0, "url": "https://www.stream-link.org/stream-link.m3u", "playerType": 1 },
-  
-  { "name": "直播2 - 安博" ,"type": 0, "url": "https://tang.hz.cz/zb/anbo?token=cb70f1ae", "playerType": 2 },	   
-  
-  { "name": "直播3 - 台湾" ,"type": 0, "url": "https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u", "playerType": 2 },	  
-
-  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u
-  
-  { "name": "直播4 - 美国" ,"type": 0, "url": "https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8", "playerType": 2 },
-
-  
-  { "name": "直播5 - 正常" ,"type": 0, "url": "https://tv.iill.top/m3u/Gather", "playerType": 2 },
-  
-  { "name": "直播6 - MYTV Super" ,"type": 0, "url": "https://tv.iill.top/m3u/MyTV", "playerType": 2 },
-  
-  { "name": "直播7 - 运动" ,"type": 0, "url": "https://tv.iill.top/m3u/Sport", "playerType": 2 }  
-  ],   
-
 
 fm json https://raw.githubusercontent.com/shawn82/fm/f7d61d6b58566bf6086a1ebb06045acff77fa8e2/fm.json
 
@@ -61,6 +38,8 @@ CCTV直播,https://tv.cctv.com/live
 小雲機上盒使用教學 https://6868c.cc
 
 易播機上盒使用教學 https://6868jx.com
+
+ETHTV機上盒使用教學 https://www.tv6868.com/
 
 **********
 阿黃tv https://t.me/ahuangtv
