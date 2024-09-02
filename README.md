@@ -36,7 +36,7 @@ TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 0827 https://github.com/gaotianliuyun/gao
 
-JSON https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+JSON [https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json](https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json)
 
 UA查詢 查看瀏覽器的UserAgent用戶代理
 
