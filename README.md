@@ -1,4 +1,6 @@
+https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master
 
+愛尚直播,https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
 
 
 "lives": [ 
