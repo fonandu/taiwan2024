@@ -507,7 +507,7 @@
     {
       "name": "4gtv點擊",
       "hosts": [
-        "static-mozai.4gtv.tv"
+        "www.4gtv.tv"
       ],
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
