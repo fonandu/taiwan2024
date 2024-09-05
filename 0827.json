@@ -504,6 +504,15 @@
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
     }
+    {
+      "name": "4gtv點擊",
+      "hosts": [
+        "www.4gtv.tv/"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
   ],
   "ads": [
     "static-mozai.4gtv.tv",
