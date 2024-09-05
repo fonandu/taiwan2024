@@ -67,6 +67,8 @@ pixman.io & livednow.com 交流群 https://t.me/livednowgroup
 
 epg.pw https://t.me/epg_chinese
 
+夏天 https://t.me/atv168
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
