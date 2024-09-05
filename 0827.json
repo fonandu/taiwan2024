@@ -505,6 +505,15 @@
       ]
     },
     {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+    },
+    {
       "name": "4gtv點擊",
       "hosts": [
         "www.4gtv.tv"
