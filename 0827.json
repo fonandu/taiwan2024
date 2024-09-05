@@ -503,7 +503,7 @@
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
-    }
+    },
     {
       "name": "4gtv點擊",
       "hosts": [
@@ -512,8 +512,7 @@
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
-    }
-  ],
+    },
   "ads": [
     "static-mozai.4gtv.tv",
     "s3t3d2y8.afcdn.net"
