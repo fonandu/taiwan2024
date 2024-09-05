@@ -1,3 +1,5 @@
+蜂蜜  https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json
+
 愛尚直播,https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master
 
 fm json https://raw.githubusercontent.com/shawn82/fm/f7d61d6b58566bf6086a1ebb06045acff77fa8e2/fm.json
