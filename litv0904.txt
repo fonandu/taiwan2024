@@ -1,4 +1,6 @@
-
+litv網頁,#genre#
+parse=1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
 
 1  頻道表,https://www.litv.tv/channel/watch/litv-vchannel1
